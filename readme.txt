@@ -3,8 +3,8 @@ Contributors: carl-alberto
 Donate link: https://carl.alber2.com
 Tags: wordpress, plugin, Booking Widget, Little Hotelier
 Requires at least: 3.9
-Tested up to: 4.5.2
-Stable tag: 1.1
+Tested up to: 6.0.3
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,10 @@ Installing "Little Hotelier Booking Widget" can be done either by searching for 
 You can get it from littlehotelier.com
 
 == Changelog ==
+
+= 1.2.0 =
+* 2022-10-25
+* Bump to WordPress version 6.0.3
 
 = 1.1 =
 * 2017-01-09
