@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: LH Booking Widget
- * Version: 1.2.0
+ * Version: 1.2.1
  * Plugin URI: https://carl.alber2.com/
  * Description: This is a Booking Widget used for Little Hotelier. Please get your channel code from the official site: http://www.littlehotelier.com/
  * Author: Carl Alberto
