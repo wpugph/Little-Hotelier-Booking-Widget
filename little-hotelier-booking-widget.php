@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: LH Booking Widget
- * Version: 1.1
+ * Version: 1.2.0
  * Plugin URI: https://carl.alber2.com/
  * Description: This is a Booking Widget used for Little Hotelier. Please get your channel code from the official site: http://www.littlehotelier.com/
  * Author: Carl Alberto
  * Author URI: https://carl.alber2.com/
  * Requires at least: 4.0
- * Tested up to: 4.5.2
+ * Tested up to: 6.0.3
  *
  * Text Domain: little-hotelier-booking-widget
  * Domain Path: /lang/
